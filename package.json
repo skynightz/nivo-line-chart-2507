@@ -1,0 +1,29 @@
+{
+  "name": "nivo-line-chart-2507",
+  "version": "0.1.0",
+  "author": "Gillian Fries",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "devDependencies": {
+    "react-scripts": "^5.0.1",
+    "@nivo/core": "^0.88.0",
+    "@nivo/line": "^0.88.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
